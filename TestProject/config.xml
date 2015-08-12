@@ -19,8 +19,8 @@
               value="default" />
   <preference name="fullscreen"
               value="true" />
-  <preference name="phonegap-version"
-              value="2.3.0" />
+  <!--<preference name="phonegap-version"
+              value="2.9.1" />-->
   <preference name="auto-hide-splash-screen"
               value="true" />
 
